@@ -1,0 +1,18 @@
+.studentButton {
+  margin: 0px;
+  padding: 0px;
+}
+
+.page {
+  display: block;
+  margin: 10px;
+ 
+}
+.copy{
+  background-color: lightslategray;
+  display: flex;
+  justify-content: center;
+align-items: center;
+height: 48px;
+font-weight: 600;
+}
